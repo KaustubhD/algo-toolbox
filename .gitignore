@@ -1,0 +1,7 @@
+.DS_Store
+
+*.swps
+*.swp
+*.class
+*.exe
+*.o
